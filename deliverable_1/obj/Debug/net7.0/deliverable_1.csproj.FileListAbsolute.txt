@@ -1,0 +1,15 @@
+/Users/glandoncomputer/Projects/deliverable_1/deliverable_1/bin/Debug/net7.0/deliverable_1
+/Users/glandoncomputer/Projects/deliverable_1/deliverable_1/bin/Debug/net7.0/deliverable_1.deps.json
+/Users/glandoncomputer/Projects/deliverable_1/deliverable_1/bin/Debug/net7.0/deliverable_1.runtimeconfig.json
+/Users/glandoncomputer/Projects/deliverable_1/deliverable_1/bin/Debug/net7.0/deliverable_1.dll
+/Users/glandoncomputer/Projects/deliverable_1/deliverable_1/bin/Debug/net7.0/deliverable_1.pdb
+/Users/glandoncomputer/Projects/deliverable_1/deliverable_1/obj/Debug/net7.0/deliverable_1.csproj.AssemblyReference.cache
+/Users/glandoncomputer/Projects/deliverable_1/deliverable_1/obj/Debug/net7.0/deliverable_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/glandoncomputer/Projects/deliverable_1/deliverable_1/obj/Debug/net7.0/deliverable_1.AssemblyInfoInputs.cache
+/Users/glandoncomputer/Projects/deliverable_1/deliverable_1/obj/Debug/net7.0/deliverable_1.AssemblyInfo.cs
+/Users/glandoncomputer/Projects/deliverable_1/deliverable_1/obj/Debug/net7.0/deliverable_1.csproj.CoreCompileInputs.cache
+/Users/glandoncomputer/Projects/deliverable_1/deliverable_1/obj/Debug/net7.0/deliverable_1.dll
+/Users/glandoncomputer/Projects/deliverable_1/deliverable_1/obj/Debug/net7.0/refint/deliverable_1.dll
+/Users/glandoncomputer/Projects/deliverable_1/deliverable_1/obj/Debug/net7.0/deliverable_1.pdb
+/Users/glandoncomputer/Projects/deliverable_1/deliverable_1/obj/Debug/net7.0/deliverable_1.genruntimeconfig.cache
+/Users/glandoncomputer/Projects/deliverable_1/deliverable_1/obj/Debug/net7.0/ref/deliverable_1.dll
